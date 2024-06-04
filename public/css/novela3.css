@@ -1,0 +1,75 @@
+/* Caminho das Índias  */
+.sanfona #p1S{
+    background-image: url("../img/sug1.jpg");
+    background-position: center center;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+  
+.sanfona #p1S:hover {
+    flex: 3;
+    background-image: url("../img/sug1.jpg");
+    background-position: center center;
+    background-size: 100% 100% !important;
+}
+
+/* Pega-pega */
+.sanfona #p2S{
+    background-image: url("../img/sug2.jpg");
+    background-position: center center;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+  
+.sanfona #p2S:hover {
+    flex: 3;
+    background-image: url("../img/sug2.jpg");
+    background-position: center center;
+    background-size: 100% 100% !important;
+}
+
+/*OUAT*/
+.sanfona #p3S{
+    background-image: url("../img/sug3.jpg");
+    background-position: center center;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+  
+.sanfona #p3S:hover {
+    flex: 3;
+    background-image: url("../img/sug3.jpg");
+    background-position: center center;
+    background-size: 100% 100% !important;
+}
+
+/* coração indomável*/
+.sanfona #p4S{
+    background-image: url("../img/sug4.jpg");
+    background-position: center center;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+  
+.sanfona #p4S:hover {
+    flex: 3;
+    background-image: url("../img/sug4.jpg");
+    background-position: center center;
+    background-size: 100% 100% !important;
+}
+
+/* cheias de charme */
+.sanfona #p5S{
+    background-image: url("../img/sug5.jpg");
+    background-position: center center;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+  
+.sanfona #p5S:hover {
+    flex: 3;
+    background-image: url("../img/sug5.jpg");
+    background-position: center center;
+    background-size: 100% 100% !important;
+}
+
